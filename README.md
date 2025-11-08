@@ -1,8 +1,5 @@
 # wedexclient — a new era for dashboards  
 
-[![Latest Release](https://img.shields.io/github/v/release/Jexactyl/Jexactyl?style=for-the-badge)](https://github.com/Jexactyl/Jexactyl/releases)
-[![Stars](https://img.shields.io/github/stars/Jexactyl/Jexactyl?style=for-the-badge)](https://github.com/Jexactyl/Jexactyl/stargazers)
-[![Forks](https://img.shields.io/github/forks/Jexactyl/Jexactyl?style=for-the-badge)](https://github.com/Jexactyl/Jexactyl/network)
 
 ## todo list  
 
