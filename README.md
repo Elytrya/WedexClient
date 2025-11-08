@@ -1,23 +1,35 @@
-# WedexClient - a new era for dashboards
+# wedexclient — a new era for dashboards  
 
-#TODO LIST
+## todo list  
 
-🖌️ Customizable Client Area.
-Change easily name and logo
-Customize news as you want, modify the new title, picture, description and link
+customization and themes  
+easily change the name, logo, and interface style. customize news, banners, descriptions, and links as you wish.  
 
-📂 See your servers, all in one place.
-See which servers you have created on the Dashboard and access them by clicking just a button
+authentication  
+login via standard form, discord oauth, or telegram — choose the most convenient way.  
 
-🔑 Discord Authentication.
-Using Discord Oauth for a faster access to your account
+referral system  
+invite friends and get bonuses for their activity.  
 
-📰 News feed added into the Client Area: explore and add your best news.
+admin panel  
+manage users, servers, payments, and content in one place.  
 
-🛒 Buy extra resources for your server.
+support  
+built-in ticket system 
 
-🪙 Earn coins while you make a good coffee, you don't need to touch the device to earn coins!
+coupons  
+create and use promo codes for discounts or bonuses.  
 
-❤️ Transfer your resources to friends or receive resources by your friends.
+discord webhooks support  
+get instant notifications about events directly in your discord channels.  
 
-this is not an exhaustive list. Download and setup the client to see what you can do!
+the feature list may expand — the project is constantly evolving.  
+
+---
+
+## technologies  
+
+frontend: nuxt 4
+ui components: shadcn-vue + tailwindcss  
+backend: typescript
+database: mysql + prisma orm  
